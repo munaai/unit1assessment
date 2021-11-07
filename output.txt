@@ -1,0 +1,33 @@
+Script started on Sun Nov  7 14:34:06 2021
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd desktop
+bash-3.2$ mkdir A assessment
+bash-3.2$ cd assessment
+bash-3.2$ mkdir folder1
+bash-3.2$ md kdir folder2
+bash-3.2$ touch file1.txt
+bash-3.2$ fi  touch file2.txt
+bash-3.2$ touch file3.tc xt
+bash-3.2$ mv file1.txt folder1
+bash-3.2$ mv file2.txt folder2
+bash-3.2$ cd folder1
+bash-3.2$ ls
+file1.txt
+bash-3.2$ pwd
+/Users/munaibrahim/desktop/assessment/folder1
+bash-3.2$ cd assessment
+bash: cd: assessment: No such file or directory
+bash-3.2$ cd cd ~/Desktop/
+bash: cd: cd: No such file or directory
+bash-3.2$ cd ~/Desktop/
+bash-3.2$ cd assessment
+bash-3.2$ ls
+file3.txt	folder1		folder2
+bash-3.2$ rm file3.txt
+bash-3.2$ exit
+exit
+
+Script done on Sun Nov  7 14:38:37 2021
